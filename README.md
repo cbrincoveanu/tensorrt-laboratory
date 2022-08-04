@@ -3,7 +3,7 @@
 The TensorRT Laboratory (trtlab) is a general purpose set of tools to build customer inference applications
 and services.
 
-[Triton](https://github.com/nvidia/triton) is a professional grade production inference server.
+[Triton](https://developer.nvidia.com/nvidia-triton-inference-server) is a professional grade production inference server.
 
 This project is broken into 4 primary components:
 
